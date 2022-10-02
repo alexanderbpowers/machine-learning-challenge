@@ -10,3 +10,5 @@ For the first model I used Support Vector Machine. The initial score for the mod
 
 My second model used the KNeighborsClassifier. After running various outcomes through a for loop, I made a decision that k number 9 was the most accurate and achieved a score of 83.39%. The GridSearchCV found k number 29 to be the most accurate and produced a similar score of 82.63%, which was actually a slight bit worse than my choice.
 
+The SVM model performs slightly better than the KNN classifier.
+
